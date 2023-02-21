@@ -1,4 +1,10 @@
-### Hi there 👋
+#Mark Wipat - Data Science and Bits & Bobs
+## Hi there 👋
+### Automation Engineer wanting to apply data science & machine learning to industrial environments.
+
+
+
+
 
 <!--
 **markwipat/markwipat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
